@@ -1,0 +1,23 @@
+{
+   "id": "7780B9BE-0435-4AF4-B0CA-F48A1407B063",
+   "name": "VS Add-in Dev Toolbox",
+   "publisher": "NETRONIC Software GmbH",
+   "brief": "",
+   "description": "",
+   "version": "2.0.0.0",
+   "privacyStatement": "",
+   "EULA": "",
+   "help": "",
+   "url": "",
+   "logo": "",
+   "capabilities": [],
+   "dependencies": [],
+   "screenshots": [],
+   "platform": "13.0.0.0",
+   "application": "13.0.0.0",
+   "idRange": {
+      "from": 60900,
+      "to": 60949
+   },
+   "runtime": "2.0"
+}
